@@ -19,7 +19,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/ZEYROXBOT_SUPPORT">JOIN SUPPORT GROUP</a></h2>
 
 </details>
 
