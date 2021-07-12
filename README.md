@@ -5,7 +5,7 @@
 # ᏃᎬ¥ƦᎾX ßØ†
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-ᏃᎬ¥ƦᎾX-ßØ† made by ZEYROX_XY. Supported by respective MAFIA-BOT OWNER @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/ZEYROXBOT_SUPPORT THANKS FOR VISITING OUR REPO💖
+ᏃᎬ¥ƦᎾX-ßØ† made by @ZEYROX_XY. Supported by respective MAFIA-BOT OWNER @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/ZEYROXBOT_SUPPORT THANKS FOR VISITING OUR REPO💖
 [![ᏃᎬ¥ƦᎾX-ßØ†](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/ZEYROX_UPDATES)
 
 
